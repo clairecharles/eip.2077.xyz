@@ -11,7 +11,7 @@ export default defineConfig({
                 replacesTitle: true,
             },
 			social: {
-				github: 'https://github.com/2077-Collective',
+				github: 'https://github.com/2077-Collective/eip.2077.xyz',
 				discord: 'https://discord.gg/2077Collective',
 			},
             customCss: [
